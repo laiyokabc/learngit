@@ -4,3 +4,4 @@ test reset_stage1
 master branch test
 dev1 branch test
 dev2 test
+add dev2
